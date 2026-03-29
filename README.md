@@ -21,6 +21,9 @@ Azure Data Factory • Databricks • Apache Spark • SQL
 
 ### 📌 Featured Work
 
+**[Multi-Cloud Cost Optimizer](https://github.com/Nirajpatel26/multi-cloud-cost-optimizer)**  
+Platform analyzing AWS, Azure, and OCI resources to identify cost optimization opportunities with automated recommendations.
+
 **[Cloud E-Commerce Platform](https://github.com/Nirajpatel26/cloud-ecommerce-platform)**  
 Multi-environment cloud infrastructure with Terraform, auto-scaling EC2, ALB, and GitHub Actions CI/CD.
 
