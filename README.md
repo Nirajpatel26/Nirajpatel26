@@ -1,0 +1,49 @@
+# Hey, I'm Niraj 👋
+
+**Cloud & DevOps Engineer** | MS Software Engineering @ Northeastern University
+
+I build and automate cloud infrastructure across AWS, Azure, and Oracle Cloud. Previously at **State Street** (Cloud/Data Platform Engineering) and **Tata Consultancy Services** (Data Engineering for J&J).
+
+---
+
+### 🔧 What I Work With
+
+**Infrastructure & Cloud**  
+AWS • Azure • Oracle Cloud • Terraform • Docker • Kubernetes • Linux
+
+**CI/CD & Automation**  
+GitHub Actions • Azure DevOps • Harness • Bash/Shell Scripting • Python
+
+**Data Engineering**  
+Azure Data Factory • Databricks • Apache Spark • SQL
+
+---
+
+### 📌 Featured Work
+
+**[Cloud E-Commerce Platform](https://github.com/Nirajpatel26/cloud-ecommerce-platform)**  
+Multi-environment cloud infrastructure with Terraform, auto-scaling EC2, ALB, and GitHub Actions CI/CD.
+
+**[Terraform AWS Infrastructure](https://github.com/Nirajpatel26/tf-aws-infra-forked)**  
+IaC templates for AWS — VPCs, security groups, compute instances with Infrastructure as Code best practices.
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nirajpatel26&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajpatel26&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-patel-a14b5b170)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patel.niraj1@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://nirajpatel26.github.io)
+
+---
+
+*Currently seeking full-time Cloud Engineer / DevOps roles starting June 2026.*
