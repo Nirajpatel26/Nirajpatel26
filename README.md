@@ -40,10 +40,10 @@ IaC templates for AWS — VPCs, security groups, compute instances with Infrastr
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-patel-a14b5b170)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patel.niraj1@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-patel-a11516154/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patel.niraju@northeastern.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://nirajpatel26.github.io)
 
 ---
 
-*Currently seeking full-time Cloud Engineer / DevOps roles starting June 2026.*
+*Currently seeking full-time Cloud / SRE / DevOps / Software Engineer roles starting June 2026.*
