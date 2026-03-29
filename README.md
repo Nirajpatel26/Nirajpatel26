@@ -31,10 +31,9 @@ IaC templates for AWS — VPCs, security groups, compute instances with Infrastr
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nirajpatel26&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajpatel26&layout=compact&theme=default&hide_border=true" />
-</p>
+![Niraj's GitHub stats](https://github-readme-stats-nirajpatel26.vercel.app/api?username=Nirajpatel26&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nirajpatel26&theme=default&hide_border=true)
 
 ---
 
