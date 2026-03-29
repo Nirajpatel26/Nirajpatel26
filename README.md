@@ -44,8 +44,6 @@ DCGAN implementation with training stability techniques and systematic experimen
 
 ### 📊 GitHub Stats
 
-![Niraj's GitHub stats](https://github-readme-stats-nirajpatel26.vercel.app/api?username=Nirajpatel26&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nirajpatel26&theme=default&hide_border=true)
 
 ---
