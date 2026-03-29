@@ -2,7 +2,7 @@
 
 **Cloud & DevOps Engineer** | MS Software Engineering @ Northeastern University
 
-I build and automate cloud infrastructure across AWS, Azure, and Oracle Cloud. Previously at **State Street** (Cloud/Data Platform Engineering) and **Tata Consultancy Services** (Data Engineering for J&J).
+I build and automate cloud infrastructure across AWS, Azure, and Oracle Cloud. Previously at **State Street** (Cloud/Data Platform Engineering) and **Tata Consultancy Services** (Assistant System Engineer).
 
 ---
 
