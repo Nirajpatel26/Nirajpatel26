@@ -32,6 +32,16 @@ IaC templates for AWS — VPCs, security groups, compute instances with Infrastr
 
 ---
 
+### 🤖 AI/ML Projects
+
+**[Agentic AI Course Registration](https://github.com/Nirajpatel26/agentic-ai-course-registration)**  
+Multi-agent system using Apache Kafka pub/sub architecture for intelligent, scalable university course management.
+
+**[GAN Fine-Tuning Experiments](https://github.com/Nirajpatel26/genai-gan-finetuning)**  
+DCGAN implementation with training stability techniques and systematic experimentation on MNIST/CIFAR-10.
+
+---
+
 ### 📊 GitHub Stats
 
 ![Niraj's GitHub stats](https://github-readme-stats-nirajpatel26.vercel.app/api?username=Nirajpatel26&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
